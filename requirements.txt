@@ -1,0 +1,9 @@
+torch==2.9.0+cpu
+torchvision==0.24.0+cpu
+torchaudio==2.9.0+cpu
+numpy
+matplotlib
+tqdm
+scikit-learn
+pillow
+
